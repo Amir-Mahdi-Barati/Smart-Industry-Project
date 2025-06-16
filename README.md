@@ -1,5 +1,8 @@
 # 🤖 Smart Industry Project  
 ### 👨‍💻Amir Mahdi Barati (Programmer)
+<p align="center">
+  <img src="1.png" width ="700" alt="DarkRay RGB Controller Preview">
+</p>
 
 ---
 
